@@ -88,7 +88,7 @@ The Hamster Kombat Key Generator is a powerful tool designed to help gamers quic
 ## Contact Us
 
 For any questions or support, feel free to reach out on Telegram:  
-**@MrGen0**
+**@MrGen**
 
 ---
 
@@ -109,13 +109,6 @@ For any questions or support, feel free to reach out on Telegram:
 
 ---
 
-## Getting Started
-
-1. **Clone or Download:** Get the code from this repository.
-2. **Open in Browser:** Launch `index.html` in your preferred web browser.
-
----
-
 ## Official Website
 
 Visit the official Hamster Kombat Key Generator website for more details.
@@ -123,7 +116,7 @@ Visit the official Hamster Kombat Key Generator website for more details.
 👉 **[Hamster Keys Generator official website ](https://hamsterkeysgenerate.netlify.app/)**
 ---
 
-## Credits
+## Enjoy 🔑💯☑️
 
 Developed by **Mr Gen**.
 
