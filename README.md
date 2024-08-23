@@ -61,7 +61,7 @@ The Hamster Kombat Key Generator is a powerful tool designed to help gamers quic
 
 **What’s new in this update:**
 
-- **Added support for a new game: Poly Sphere**
+- **Added support for a new game:  Mud Racing and Mow and Trim**
 - **Improved design for better mobile and desktop experiences**
 - **Enhanced tracking with detailed logs and countdowns**
 
