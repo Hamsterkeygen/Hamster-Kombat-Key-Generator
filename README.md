@@ -103,14 +103,6 @@ For any questions or support, feel free to reach out on Telegram:
 
 ---
 
-## How It Works
-
-1. **Generate Promo Code:** Click "Generate Promo Code" to start.
-2. **Monitor Progress:** Track the generation process with the progress bar.
-3. **Copy and Use Key:** Once generated, click "Copy Code" to use the key.
-
----
-
 ## Official Website
 
 Visit the official Hamster Kombat Key Generator website for more details.
